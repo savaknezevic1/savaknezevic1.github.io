@@ -41,4 +41,7 @@
   footer {
     position: bottom:0px;right:0px;left:0px;
   }
+  img {
+    image-orientation: from-image;
+  }
 </style>
