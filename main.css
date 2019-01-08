@@ -44,7 +44,7 @@
   img {
     image-orientation: from-image;
   }
-.content {
+  content {
   max-width: 500px;
   margin: auto;
   }
